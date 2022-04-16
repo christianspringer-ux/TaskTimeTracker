@@ -1,0 +1,11 @@
+{
+    "name": "Task Timer",
+    "version": "1.0.0",
+    "description": "Helping you not burn out on a task",
+    "manifest_version": 3,
+    "author": "Ethan McRae & Christian Springer",
+    "action": {
+        "default_popup": "index.html"
+    },
+    "permissions": ["storage", "activeTab"]
+}
